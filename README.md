@@ -1,6 +1,5 @@
 # DrawMakina
-Máquina de dibujo Open Source ![DRAW MAKINA LOGO small](https://github.com/user-attachments/assets/8d6f906f-6ade-43f9-bfdd-6b30f0e40c3d)
- 
+Máquina de dibujo Open Source 
 ![DM completa](https://github.com/user-attachments/assets/7d7885e3-2b41-4396-919c-91bf69c8a9ea)
 
 DrawMakina es una maquina de dibujo DIY, Open Source y de bajo coste para dibujar con hojas tamaño A2.
