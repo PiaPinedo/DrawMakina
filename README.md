@@ -20,9 +20,9 @@ En este repositorio podrás acceder a la lista de piezas, el detalle del ensambl
 
 
 
-### [Listado Componentes](https://docs.google.com/spreadsheets/d/1AmNRzkBurb7ddMvps6KCj8CBwCPvgpXAdZpDU2fsMKk/edit?usp=sharing"Listado Componentes")
+### [Listado Componentes](https://docs.google.com/spreadsheets/d/1AmNRzkBurb7ddMvps6KCj8CBwCPvgpXAdZpDU2fsMKk/edit?usp=sharing "Listado Componentes")
 
-### [Piezas STL-Para impresión 3D](https://github.com/PiaPinedo/DrawMakina/tree/main/STL%20DrawMakina"Piezas STL-Para impresión 3D")
+### [Piezas STL-Para impresión 3D](https://github.com/PiaPinedo/DrawMakina/tree/main/STL%20DrawMakina "Piezas STL-Para impresión 3D")
 
 ### [Planos Ensamblaje](https://github.com/PiaPinedo/DrawMakina/tree/main/Planos%20Ensamble%20DrawMakina "Planos Ensamblaje")
 
