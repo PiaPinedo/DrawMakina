@@ -1,15 +1,15 @@
 # DrawMakina
 Máquina de dibujo Open Source 
-![DM completa](https://github.com/user-attachments/assets/7d7885e3-2b41-4396-919c-91bf69c8a9ea)
+
+![000](https://github.com/user-attachments/assets/a7084356-6426-4e3f-813e-13f9f6f41844)
 
 DrawMakina es una maquina de dibujo DIY, Open Source y de bajo coste para dibujar con hojas tamaño A2.
 
 Fabricada con perfiles V-slot , piezas impresas en 3d y carcasa cortada con laser cnc.
 
 En este repositorio podrás acceder a la lista de piezas, el detalle del ensamblaje y las piezas para imprimir 3d.
-
+![DM completa](https://github.com/user-attachments/assets/7d7885e3-2b41-4396-919c-91bf69c8a9ea)
 ## Table of Contents
-
 - [Listado Componentes](#listado-componentes)
 - [Piezas STL-Para impresión 3D](#piezas-stl-para-impresión-3d)
 - [Planos Ensamblaje](#planos-ensamblaje)
